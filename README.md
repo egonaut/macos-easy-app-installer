@@ -36,7 +36,7 @@ This is a Bash script that simplifies the process of installing applications on 
 
 To run the script, save it as a `.sh` file, open Terminal, navigate to the script's location, and execute it with the following command:
 
-    bash appinstaller.sh
+    bash app_installer.sh
 
 
 Follow the on-screen instructions to install and manage applications using the interactive menu.
