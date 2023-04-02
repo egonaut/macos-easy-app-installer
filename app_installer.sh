@@ -1,3 +1,5 @@
+# Opens Bash
+
 #!/bin/bash
 
 # Check if Homebrew is installed
