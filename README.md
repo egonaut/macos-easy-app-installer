@@ -1,5 +1,5 @@
 
-## macOS Easy Application Installer
+## macOS Easy Application Installer (Incomplete)
 
 This is a Bash script that simplifies the process of installing applications on macOS using Homebrew. The script offers an interactive menu, allowing users to choose from several options to manage their application installations.
 
